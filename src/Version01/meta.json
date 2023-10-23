@@ -1,0 +1,190 @@
+{
+    "data": {
+        "project": {
+            "apiComponents": {
+                "ApiContainer": {
+                    "id": "ApiContainer",
+                    "children": []
+                }
+            },
+            "assets": {
+                "65313bcbde77c83e6633be8d": {
+                    "externalStorageType": "GCS",
+                    "_id": "65313bcbde77c83e6633be8d",
+                    "size": "33464",
+                    "mimetype": "image/jpeg",
+                    "encoding": "7bit",
+                    "originalname": "a2577bda23d8ad1a3cc63f682af9b0eb.jpg",
+                    "backendURI": "/project/652e98f6cc6f7e24ae1139d6/getasset/65313bcbde77c83e6633be8d",
+                    "name": "a2577bda23d8ad1a3cc63f682af9b0eb.jpg",
+                    "externalName": "users/64f9cfd85b362bebfb0abf50/projects/652e98f6cc6f7e24ae1139d6/assets/65313bcbde77c83e6633be8d",
+                    "createdAt": "2023-10-19T14:23:07.193Z",
+                    "updatedAt": "2023-10-19T14:23:07.193Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cfd85b362bebfb0abf50/projects/652e98f6cc6f7e24ae1139d6/assets/65313bcbde77c83e6633be8d?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231022%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231022T213959Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=2eb2b2dff869465d3227e82648f288574b4bc88b31887289b037dd198de6c3e8524b53aa7382b49ede7f48f238474fbc6eae82ea794974a4a2d6405f9e5bd8a9fea62ca69594cb4d678e198bf726f62ac334749b9fa859a3f7f4b635192a3ed52107f07c73a75c6bfe24597a26967c91fb7a19354cef4cfa2f65c72c98c38ca77aace4ebeb51a50b5ae78ec6506b9b8a4147aff9c4397c2fa368db411d8782f4f1b6ef8f73c7582916c9d6828ca92a06cc5304a8575924948f878209e5a5208f05fe0accfd0d1020b3eb36c1bc8f4056b21d688e5ba7c094ed363bd28200d12c1aae0654509d48bd58a34be302f874e8ebc3aba53865499d4828625ffe3c1bba",
+                    "signedUrlExpirationTime": 1698183599000
+                },
+                "653598ccee3387667093af75": {
+                    "externalStorageType": "GCS",
+                    "_id": "653598ccee3387667093af75",
+                    "size": "127777",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "SmartScheduleLogo01.png",
+                    "backendURI": "/project/652e98f6cc6f7e24ae1139d6/getasset/653598ccee3387667093af75",
+                    "name": "SmartScheduleLogo01.png",
+                    "externalName": "users/64f9cfd85b362bebfb0abf50/projects/652e98f6cc6f7e24ae1139d6/assets/653598ccee3387667093af75",
+                    "createdAt": "2023-10-22T21:49:00.260Z",
+                    "updatedAt": "2023-10-22T21:49:00.260Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cfd85b362bebfb0abf50/projects/652e98f6cc6f7e24ae1139d6/assets/653598ccee3387667093af75?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231022%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231022T214900Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=1e3f20fba511f7fc3f730162d53372a104e5e7475466e942839f9bc196e68c43f71d0260814d7d16cd4cdbe63f77e48520f300ea5ad2be8b4239aba087db19aa454304e96a0d055d4d470fb37b7e07670d892dfa95ae140ca27f5956da3f7882485afb3a0ec884e1a623bc8ca04294e775f5b908ab6f523ccd954e8df47bcf5c31652d7aabab852a6198e55678eb41439f679a4ea5492952beba4e97829f603ec3bf0ad55bf7050cbf75f9ac96d3b60da29e1ed13f37991e05a1cbdfe94e6cff417b64627a3a2c0ec02b63b7321ea1abd3b40b27fffadbf04ead61bf69293fc6ef438e4339c620792853d6e80296e09eace2f7540cd5858815dfcc8ca4e84125",
+                    "signedUrlExpirationTime": 1698184140290
+                },
+                "6535990bd0ee6a0439b30321": {
+                    "externalStorageType": "GCS",
+                    "_id": "6535990bd0ee6a0439b30321",
+                    "size": "21629",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "SmartSRam01.png",
+                    "backendURI": "/project/652e98f6cc6f7e24ae1139d6/getasset/6535990bd0ee6a0439b30321",
+                    "name": "SmartSRam01.png",
+                    "externalName": "users/64f9cfd85b362bebfb0abf50/projects/652e98f6cc6f7e24ae1139d6/assets/6535990bd0ee6a0439b30321",
+                    "createdAt": "2023-10-22T21:50:03.265Z",
+                    "updatedAt": "2023-10-22T21:50:03.265Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cfd85b362bebfb0abf50/projects/652e98f6cc6f7e24ae1139d6/assets/6535990bd0ee6a0439b30321?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231022%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231022T215003Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=7fbbdb4f2266c6133df6f361bf616b7c2f0b8a6f80cb1da4b2ce53df413aec89e8a59d65b9e3d0653f65babc801db0edd8443b6c25ab0957d16069e812d0df44576649837e687cd090cf2599ee68579270c59b3246dec77874dc5455cac659c122b8bd3ffc46936f725ceb65286840534946600d649bb6920c05c13d0264e6816f2e995ea9b946551c35afdb10eef4d7a989445bc97e0cffe2ee6f4901d126aec179b8b780c7b61636b14fcec90f32024c922a094ae6c9b89995d11c4796f925c44b620a9c9e9c266afb38aff32a83b730f4cc0ff3c9acb9e21425572e7e4b11410d51c038ad3d07f575e1896e399f4ae2e7801d9f590f67acbf544688ccb191",
+                    "signedUrlExpirationTime": 1698184203293
+                }
+            },
+            "backendUpgradeVersion": 22,
+            "blockly": {},
+            "categories": [
+                "Education"
+            ],
+            "components": {
+                "children": [
+                    {
+                        "id": "83b06da3-046e-4853-bbb0-5d1eb68d1c75"
+                    },
+                    {
+                        "id": "3b5a93ca-5a5d-4383-8c72-b7d67e856edc"
+                    },
+                    {
+                        "id": "b68ad1bd-6d17-4d5f-bde5-dd0895d409db"
+                    }
+                ]
+            },
+            "figmaComponents": {},
+            "description": null,
+            "icon": null,
+            "projectName": "Smart Schedule",
+            "settings": {
+                "teamId": null,
+                "appName": "SmartSchedule",
+                "icon": null,
+                "autoIncrementVersion": true,
+                "ignoreNotchArea": false,
+                "notchAreaColor": null,
+                "androidVersionName": "1",
+                "androidVersionCode": 1,
+                "iosVersionNumber": "1",
+                "iosBuildNumber": "1",
+                "firebaseAPIKey": null,
+                "firebaseDatabaseURL": null,
+                "stripePublishableKeyTest": null,
+                "stripePublishableKeyLive": null,
+                "stripeAccountId": null,
+                "stripeTestMode": true,
+                "isPublic": true,
+                "description": null,
+                "mobileTutorial": null,
+                "pushNotificationAndroidAppId": null,
+                "pushNotificationIOSAppId": null,
+                "pushNotificationGeolocationEnabled": null,
+                "yandexAPIKey": null,
+                "imageRecognizerServerURL": null,
+                "imageRecognizerSubscriptionKey": null,
+                "cloudName": null,
+                "cloudinaryAPIKey": null,
+                "cloudinaryAPISecret": null,
+                "permissions": {
+                    "ios": {}
+                },
+                "googleMapAPIKeyAndroid": null,
+                "googleMapAPIKeyIOS": null,
+                "googleOAuthiOSClientID": null,
+                "googleOAuthiOSURLScheme": null,
+                "googleOAuthWebClientID": null,
+                "appleOAuthWebClientID": null,
+                "appleOAuthWebRedirectURI": null,
+                "admobAppIdIOS": null,
+                "admobAppIdAndroid": null,
+                "admobUserTrackingUsageDescription": null,
+                "__typename": "ProjectSettings"
+            },
+            "projectSettings": {
+                "teamId": null,
+                "appName": "SmartSchedule",
+                "icon": null,
+                "autoIncrementVersion": true,
+                "ignoreNotchArea": false,
+                "notchAreaColor": null,
+                "androidVersionName": "1",
+                "androidVersionCode": 1,
+                "iosVersionNumber": "1",
+                "iosBuildNumber": "1",
+                "firebaseAPIKey": null,
+                "firebaseDatabaseURL": null,
+                "stripePublishableKeyTest": null,
+                "stripePublishableKeyLive": null,
+                "stripeAccountId": null,
+                "stripeTestMode": true,
+                "isPublic": true,
+                "description": null,
+                "mobileTutorial": null,
+                "pushNotificationAndroidAppId": null,
+                "pushNotificationIOSAppId": null,
+                "pushNotificationGeolocationEnabled": null,
+                "yandexAPIKey": null,
+                "imageRecognizerServerURL": null,
+                "imageRecognizerSubscriptionKey": null,
+                "cloudName": null,
+                "cloudinaryAPIKey": null,
+                "cloudinaryAPISecret": null,
+                "permissions": {
+                    "ios": {}
+                },
+                "googleMapAPIKeyAndroid": null,
+                "googleMapAPIKeyIOS": null,
+                "googleOAuthiOSClientID": null,
+                "googleOAuthiOSURLScheme": null,
+                "googleOAuthWebClientID": null,
+                "appleOAuthWebClientID": null,
+                "appleOAuthWebRedirectURI": null,
+                "admobAppIdIOS": null,
+                "admobAppIdAndroid": null,
+                "admobUserTrackingUsageDescription": null,
+                "__typename": "ProjectSettings"
+            },
+            "hasAdmob": false,
+            "hasBluetoothLowEnergy": null,
+            "hasPushNotification": false,
+            "hasAssistant": null,
+            "dataSourceLinks": [],
+            "localDataSources": [],
+            "customProperties": [],
+            "modules": [],
+            "usesDragDropUi": true,
+            "totalCopy": "1",
+            "totalStar": "0",
+            "starAction": "star",
+            "variables": {},
+            "defaultDesignerDevice": "PHONE",
+            "defaultDesignerOrientation": "PORTRAIT",
+            "schemaVersion": 2,
+            "organization": null,
+            "__typename": "Project"
+        }
+    }
+}
